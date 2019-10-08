@@ -1,0 +1,113 @@
+body.landingbody {
+	margin: 25px;
+	font-family: 'Hind', sans-serif;
+	margin: 10px;
+	padding: 10px;
+}
+
+.landingheader {
+    padding: 20px;
+	line-height: 15px;
+	background-color: lavender;
+	border-style: double;
+}
+
+h1.landingh1 {
+	line-height: 10px;
+}
+
+.left-col {
+	width: 33.33%;
+	float: left;
+}
+
+.center-col {
+	width: 33.33%;
+	float: left;
+}
+
+.right-col {
+	width: 33.33%;
+	float: right;
+	padding: 0px;
+}
+
+.landingfooter {
+	clear: both;
+	background-color: lavender;
+	padding: 20px;
+	line-height: 5px;
+	border-style: double;
+}
+
+.container div {
+	padding: 1%;
+	box-sizing: border-box;
+	min-height: 500px;
+}
+
+li.landingli {
+	margin-top: 25px;
+	line-height: 15px;
+}
+
+img.landingimg {
+	border-radius: 30px;
+}
+
+/*Iconz Assignment*/
+
+body.iconzbody {
+	font-family: 'Hind', sans-serif;
+}
+
+.iconzheader {
+	background-color: rgb(194, 240, 240);
+	border-style: double;
+}
+
+h1.iconzh1 {
+	text-align: center;
+	line-height: 15px
+}
+
+h2.iconzh2 {
+	text-align: center;
+	font-style: italic;
+}
+
+img.iconzimg {
+	float: left;
+}
+
+li.iconzli {
+	margin-top: 25px;
+	line-height:25px;
+}
+
+p.iconzp {
+	margin-top: 20px;
+	line-height: 25px;
+}
+
+h5.iconzh5 {
+	line-height: 25px;
+	margin-top: 15px;
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
+
+.iconzheader {
+	padding: 15px;
+	margin-bottom: 50px;
+	background-color: rgb(194, 240, 240);
+	border-style: double;
+}
+
+.iconzfooter {
+	background-color: rgb(194, 240, 240);
+	border-style: double;
+	margin-top: 50px;
+}
+
+
