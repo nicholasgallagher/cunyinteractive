@@ -122,4 +122,57 @@ h5.iconzh5 {
 	line-height: 5px;
 }
 
+.dataheader {
+	padding: 15px;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	background-color: rgb(194, 240, 240);
+}
+
+h1.datah1 {
+	text-align: center;
+	line-height: 10px
+}
+
+h2.datah2 {
+	text-align: center;
+	font-style: italic;
+}
+
+body.databody {
+	font-family: 'Hind', sans-serif;
+}
+
+p.datap {
+	margin-top: 20px;
+	line-height: 25px;
+}
+
+img.dataimg {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px;
+}
+
+figure {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+.databody {
+	background-color: rgb(194, 240, 240);
+	padding: 15px;
+}
+
+h4.datah4 {
+	text-align: center;
+    font-style: italic;
+}
 
