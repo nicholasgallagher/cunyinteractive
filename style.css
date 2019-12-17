@@ -139,8 +139,14 @@ h2.datah2 {
 	font-style: italic;
 }
 
+h4.datah4 {
+	text-align: center;
+    font-style: italic;
+}
+
 body.databody {
 	font-family: 'Hind', sans-serif;
+	background-color: rgb(194, 240, 240);
 }
 
 p.datap {
@@ -166,13 +172,37 @@ figure {
   padding: 0.5em;
 }
 
-.databody {
-	background-color: rgb(194, 240, 240);
+.mapbody {
 	padding: 15px;
 }
 
-h4.datah4 {
+h4.maph4 {
 	text-align: center;
     font-style: italic;
+}
+
+.mapheader {
+	padding: 15px;
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+
+h1.maph1 {
+	text-align: center;
+	line-height: 10px
+}
+
+h2.maph2 {
+	text-align: center;
+	font-style: italic;
+}
+
+body.mapbody {
+	font-family: 'Hind', sans-serif;
+}
+
+p.mapp {
+	margin-top: 20px;
+	line-height: 25px;
 }
 
